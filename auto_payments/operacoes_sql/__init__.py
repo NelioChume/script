@@ -1,0 +1,2 @@
+import auto_payments.operacoes_sql.operacoes
+import auto_payments.operacoes_sql.sqlQuerys
