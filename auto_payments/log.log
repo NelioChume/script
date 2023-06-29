@@ -115,3 +115,38 @@
 2023-06-28 09:41:47,436 - INFO - MovePath: Fazendo a leitura dos ficheiros
 2023-06-28 09:41:47,458 - INFO - MovePath: Ficheiro 28-6-2023-9h41m45s.txt movido de C:\\xampp\\htdocs\\sigea\\auto_payments\28-6-2023-9h41m45s.txt com sucesso para C:\\Users\\Chume\\Downloads\\bmeps_files\\output\28-6-2023-9h41m45s.txt
 2023-06-28 09:41:47,458 - INFO - -- -- -- -- -- -- -- --- -- -- -- -- -- -- --- --- -- --
+2023-06-29 10:22:34,758 - INFO - Ficheiro Oper: Arquivo de Leitura C:\\xampp\\htdocs\\sigea\\auto_payments\\Exemplo_Ficheiro_BMEPS.txt
+2023-06-29 10:22:39,204 - INFO - Connect DB: Conexão estabelecida com a Base de Dados
+2023-06-29 10:22:39,264 - INFO - Ficheiro de saida feito com sucesso
+2023-06-29 10:22:39,265 - INFO - --------------------------------------------------
+2023-06-29 10:22:39,374 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-06-29 10:22:39,518 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:39,534 - INFO - OperSQLs: Referencia-01963381106 nao encontrada
+2023-06-29 10:22:39,751 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:39,764 - INFO - OperSQLs: Referencia-02175151173 nao encontrada
+2023-06-29 10:22:39,974 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:39,982 - INFO - OperSQLs: Referencia-02201241178 nao encontrada
+2023-06-29 10:22:40,051 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,058 - INFO - OperSQLs: Referencia-02201351124 nao encontrada
+2023-06-29 10:22:40,118 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,124 - INFO - OperSQLs: Referencia-02227331110 nao encontrada
+2023-06-29 10:22:40,162 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,265 - INFO - OperSQLs: Referencia-02258191192 nao encontrada
+2023-06-29 10:22:40,307 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,313 - INFO - OperSQLs: Referencia-02265591113 nao encontrada
+2023-06-29 10:22:40,373 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,381 - INFO - OperSQLs: Referencia-02278981171 nao encontrada
+2023-06-29 10:22:40,418 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,428 - INFO - OperSQLs: Referencia-02280931122 nao encontrada
+2023-06-29 10:22:40,462 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,484 - INFO - OperSQLs: Referencia-02295721110 encontrada na tabela SchoolaryYear id-13
+2023-06-29 10:22:40,600 - INFO - Insercao e Update feita
+2023-06-29 10:22:40,616 - INFO - OperSQLs: Referencia-02311881175 nao encontrada
+2023-06-29 10:22:40,752 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,760 - INFO - OperSQLs: Referencia-02311891156 encontrada na tabela SchoolaryYear id-10
+2023-06-29 10:22:40,798 - INFO - Insercao e Update feita
+2023-06-29 10:22:40,805 - INFO - OperSQLs: Referencia-02328321129 nao encontrada
+2023-06-29 10:22:40,841 - INFO - Insercao feita na tabela NotFound
+2023-06-29 10:22:40,841 - INFO - ___________________________________________________
+2023-06-29 10:22:40,841 - INFO - MovePath: Fazendo a leitura dos ficheiros
+2023-06-29 10:22:40,841 - INFO - -- -- -- -- -- -- -- --- -- -- -- -- -- -- --- --- -- --
