@@ -1,4 +1,7 @@
-from auto_payments import logsConf, movePath, ficheiro, operacoes
+import logsConf as logsConf
+import movePath as movePath
+import ficheiro as ficheiro
+import operacoes as operacoes
 
 if __name__ == "__main__":
     ficheiro.open_file()

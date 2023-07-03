@@ -2,7 +2,7 @@ import json
 import datetime
 import os
 from dotenv import load_dotenv
-from auto_payments import logsConf
+import logsConf as logsConf
 
 load_dotenv()
 

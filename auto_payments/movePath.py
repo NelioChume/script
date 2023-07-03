@@ -1,7 +1,7 @@
 import os
 import shutil
 from dotenv import load_dotenv
-from auto_payments import logsConf
+import logsConf as logsConf
 
 load_dotenv()
 pasta_origem = os.getenv("PASTA_ORIGEM")

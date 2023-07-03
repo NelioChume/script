@@ -1,4 +1,6 @@
-from auto_payments import logsConf, ficheiro, sqlQuerys
+import logsConf as logsConf
+import ficheiro as ficheiro
+import sqlQuerys as sqlQuerys
 
 
 def operacoes():
