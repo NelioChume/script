@@ -1,4 +1,4 @@
-from auto_payments.conexao_bd import conexao
+from auto_payments import conexao
 
 conn = conexao.connect()
 cursor = conn.cursor()

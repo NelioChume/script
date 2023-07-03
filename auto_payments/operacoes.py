@@ -1,6 +1,6 @@
-from auto_payments.operacoes_file import ficheiro
-from auto_payments.operacoes_sql  import sqlQuerys
-from auto_payments.logs_Config import logsConf
+from auto_payments import logsConf, ficheiro, sqlQuerys
+
+
 def operacoes():
     detalhes = ficheiro.read_detalhe()
     for detalhe in detalhes:

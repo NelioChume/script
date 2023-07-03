@@ -1,7 +1,7 @@
 import mysql.connector
 from dotenv import load_dotenv
 import os
-from auto_payments.logs_Config import logsConf
+from auto_payments import logsConf
 
 load_dotenv()
 

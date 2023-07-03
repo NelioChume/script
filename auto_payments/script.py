@@ -1,7 +1,4 @@
-from auto_payments.operacoes_file import ficheiro
-from auto_payments.operacoes_sql import operacoes
-from auto_payments.move_file import movePath
-from auto_payments.logs_Config import logsConf
+from auto_payments import logsConf, movePath, ficheiro, operacoes
 
 if __name__ == "__main__":
     ficheiro.open_file()
