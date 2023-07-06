@@ -326,10 +326,204 @@
 2023-07-03 09:56:08,920 - INFO - ___________________________________________________
 2023-07-03 09:56:08,921 - INFO - MovePath: Fazendo a leitura dos ficheiros
 2023-07-03 09:56:08,921 - INFO - -- -- -- -- -- -- -- --- -- -- -- -- -- -- --- --- -- --
-2023-07-05 09:02:37,652 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
-2023-07-05 09:04:38,510 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
-2023-07-05 09:05:00,687 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
-2023-07-05 09:05:14,914 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
-2023-07-05 09:05:26,070 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
-2023-07-05 09:12:35,312 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
-2023-07-05 09:12:46,886 - INFO - Connect DB: Conex�o estabelecida com a Base de Dados
+2023-07-03 09:40:53,432 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 12:08:43,242 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 12:08:43,382 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 12:32:35,749 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 12:32:35,815 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 12:33:29,967 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 12:33:30,040 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 13:19:20,150 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 13:19:20,239 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 13:19:20,240 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-03 13:19:20,240 - INFO - --------------------------------------------------
+2023-07-03 13:26:45,973 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.TXT
+2023-07-03 13:26:46,085 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 13:26:46,086 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-03 13:26:46,086 - INFO - --------------------------------------------------
+2023-07-03 14:00:20,101 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.TXT
+2023-07-03 14:00:20,211 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 14:00:20,213 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-03 14:00:20,213 - INFO - --------------------------------------------------
+2023-07-03 14:02:07,910 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 14:02:07,992 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 14:02:07,993 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-03 14:02:07,993 - INFO - --------------------------------------------------
+2023-07-03 14:05:35,503 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 14:07:31,641 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-03 14:07:31,704 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-03 14:07:31,705 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-03 14:07:31,705 - INFO - --------------------------------------------------
+2023-07-04 06:25:02,422 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-04 06:25:03,111 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 06:25:03,111 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 06:25:03,111 - INFO - --------------------------------------------------
+2023-07-04 06:31:18,331 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-04 06:31:18,476 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 06:31:18,477 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 06:31:18,478 - INFO - --------------------------------------------------
+2023-07-04 09:37:00,116 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-04 09:37:00,185 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 09:37:00,186 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 09:37:00,186 - INFO - --------------------------------------------------
+2023-07-04 10:06:20,950 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.txt
+2023-07-04 10:06:21,018 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 10:06:21,019 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 10:06:21,019 - INFO - --------------------------------------------------
+2023-07-04 10:24:04,393 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 10:24:04,450 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 10:24:04,451 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 10:24:04,451 - INFO - --------------------------------------------------
+2023-07-04 10:29:39,512 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 10:29:39,631 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 10:29:39,632 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 10:29:39,632 - INFO - --------------------------------------------------
+2023-07-04 10:33:51,130 - INFO - Ficheiro Oper: Arquivo de Leitura /home/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 10:33:51,251 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 10:33:51,254 - CRITICAL - Arquivo de leitura nao encontrado
+2023-07-04 10:33:51,254 - INFO - --------------------------------------------------
+2023-07-04 10:40:51,318 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 10:40:51,441 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 10:40:51,443 - INFO - Ficheiro de saida feito com sucesso
+2023-07-04 10:40:51,443 - INFO - --------------------------------------------------
+2023-07-04 10:42:10,516 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 10:42:11,155 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 10:42:11,159 - INFO - Ficheiro de saida feito com sucesso
+2023-07-04 10:42:11,159 - INFO - --------------------------------------------------
+2023-07-04 12:10:28,483 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 12:10:28,587 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 12:10:28,589 - INFO - Ficheiro de saida feito com sucesso
+2023-07-04 12:10:28,589 - INFO - --------------------------------------------------
+2023-07-04 12:30:34,199 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 12:30:34,292 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 12:30:34,294 - INFO - Ficheiro de saida feito com sucesso
+2023-07-04 12:30:34,294 - INFO - --------------------------------------------------
+2023-07-04 12:55:28,106 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 12:55:28,197 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 13:34:01,184 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 13:34:01,285 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-04 14:18:47,967 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-04 14:18:48,088 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-05 07:03:35,302 - CRITICAL - Connect DB: Falha na conexão da Base de Dados: 1698 (28000): Access denied for user 'root'@'localhost'
+2023-07-06 08:37:23,895 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 08:37:24,332 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 08:37:24,332 - INFO - --------------------------------------------------
+2023-07-06 08:37:24,386 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 08:52:15,387 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 08:52:15,780 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 08:52:15,781 - INFO - --------------------------------------------------
+2023-07-06 08:52:15,788 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 08:55:33,839 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 08:55:34,272 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 08:55:34,273 - INFO - --------------------------------------------------
+2023-07-06 08:55:34,285 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 09:02:17,254 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 09:02:17,667 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 09:02:17,667 - INFO - --------------------------------------------------
+2023-07-06 09:02:17,675 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 09:23:59,920 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 09:24:00,119 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 09:24:00,119 - INFO - --------------------------------------------------
+2023-07-06 09:24:00,127 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 09:29:40,362 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 09:29:40,550 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 09:29:40,551 - INFO - --------------------------------------------------
+2023-07-06 09:29:40,554 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 09:29:40,562 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,565 - INFO - OperSQLs: Referencia-01963381106 nao encontrada
+2023-07-06 09:29:40,571 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,575 - INFO - OperSQLs: Referencia-02175151173 nao encontrada
+2023-07-06 09:29:40,580 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,582 - INFO - OperSQLs: Referencia-02201241178 nao encontrada
+2023-07-06 09:29:40,588 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,590 - INFO - OperSQLs: Referencia-02201351124 nao encontrada
+2023-07-06 09:29:40,595 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,598 - INFO - OperSQLs: Referencia-02227331110 nao encontrada
+2023-07-06 09:29:40,603 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,607 - INFO - OperSQLs: Referencia-02258191192 nao encontrada
+2023-07-06 09:29:40,613 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,615 - INFO - OperSQLs: Referencia-02265591113 nao encontrada
+2023-07-06 09:29:40,620 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,623 - INFO - OperSQLs: Referencia-02278981171 nao encontrada
+2023-07-06 09:29:40,635 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,638 - INFO - OperSQLs: Referencia-02280931122 nao encontrada
+2023-07-06 09:29:40,642 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,647 - INFO - OperSQLs: Referencia-02295721110 nao encontrada
+2023-07-06 09:29:40,653 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,655 - INFO - OperSQLs: Referencia-02311881175 nao encontrada
+2023-07-06 09:29:40,659 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,664 - INFO - OperSQLs: Referencia-02311891156 nao encontrada
+2023-07-06 09:29:40,670 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,674 - INFO - OperSQLs: Referencia-02328321129 nao encontrada
+2023-07-06 09:29:40,681 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:29:40,681 - INFO - ___________________________________________________
+2023-07-06 09:29:40,682 - INFO - MovePath: Fazendo a leitura dos ficheiros
+2023-07-06 09:39:49,041 - INFO - Ficheiro Oper: Arquivo de Leitura ./Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 09:39:49,261 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 09:39:49,261 - INFO - --------------------------------------------------
+2023-07-06 09:39:49,266 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 09:39:49,348 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,351 - INFO - OperSQLs: Referencia-01963381106 nao encontrada
+2023-07-06 09:39:49,357 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,361 - INFO - OperSQLs: Referencia-02175151173 nao encontrada
+2023-07-06 09:39:49,369 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,374 - INFO - OperSQLs: Referencia-02201241178 nao encontrada
+2023-07-06 09:39:49,379 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,382 - INFO - OperSQLs: Referencia-02201351124 nao encontrada
+2023-07-06 09:39:49,388 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,394 - INFO - OperSQLs: Referencia-02227331110 nao encontrada
+2023-07-06 09:39:49,400 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,403 - INFO - OperSQLs: Referencia-02258191192 nao encontrada
+2023-07-06 09:39:49,412 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,417 - INFO - OperSQLs: Referencia-02265591113 nao encontrada
+2023-07-06 09:39:49,423 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,428 - INFO - OperSQLs: Referencia-02278981171 nao encontrada
+2023-07-06 09:39:49,432 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,435 - INFO - OperSQLs: Referencia-02280931122 nao encontrada
+2023-07-06 09:39:49,441 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,445 - INFO - OperSQLs: Referencia-02295721110 nao encontrada
+2023-07-06 09:39:49,450 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,454 - INFO - OperSQLs: Referencia-02311881175 nao encontrada
+2023-07-06 09:39:49,460 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,461 - INFO - OperSQLs: Referencia-02311891156 nao encontrada
+2023-07-06 09:39:49,466 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,469 - INFO - OperSQLs: Referencia-02328321129 nao encontrada
+2023-07-06 09:39:49,476 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:39:49,476 - INFO - ___________________________________________________
+2023-07-06 09:39:49,476 - INFO - MovePath: Fazendo a leitura dos ficheiros
+2023-07-06 09:46:08,469 - INFO - Ficheiro Oper: Arquivo de Leitura /home/script/scripts/script/auto_payments/Exemplo_Ficheiro_BMEPS.TXT
+2023-07-06 09:46:08,701 - INFO - Ficheiro de saida feito com sucesso
+2023-07-06 09:46:08,701 - INFO - --------------------------------------------------
+2023-07-06 09:46:08,706 - INFO - OperSQLs: Referencia-01875081156 nao encontrada
+2023-07-06 09:46:09,199 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:09,201 - INFO - OperSQLs: Referencia-01963381106 nao encontrada
+2023-07-06 09:46:10,225 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,227 - INFO - OperSQLs: Referencia-02175151173 nao encontrada
+2023-07-06 09:46:10,232 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,233 - INFO - OperSQLs: Referencia-02201241178 nao encontrada
+2023-07-06 09:46:10,241 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,244 - INFO - OperSQLs: Referencia-02201351124 nao encontrada
+2023-07-06 09:46:10,250 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,252 - INFO - OperSQLs: Referencia-02227331110 nao encontrada
+2023-07-06 09:46:10,257 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,259 - INFO - OperSQLs: Referencia-02258191192 nao encontrada
+2023-07-06 09:46:10,264 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,267 - INFO - OperSQLs: Referencia-02265591113 nao encontrada
+2023-07-06 09:46:10,273 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,275 - INFO - OperSQLs: Referencia-02278981171 nao encontrada
+2023-07-06 09:46:10,281 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,284 - INFO - OperSQLs: Referencia-02280931122 nao encontrada
+2023-07-06 09:46:10,289 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,291 - INFO - OperSQLs: Referencia-02295721110 nao encontrada
+2023-07-06 09:46:10,297 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,299 - INFO - OperSQLs: Referencia-02311881175 nao encontrada
+2023-07-06 09:46:10,305 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,306 - INFO - OperSQLs: Referencia-02311891156 nao encontrada
+2023-07-06 09:46:10,312 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,314 - INFO - OperSQLs: Referencia-02328321129 nao encontrada
+2023-07-06 09:46:10,319 - INFO - Insercao feita na tabela NotFound
+2023-07-06 09:46:10,320 - INFO - ___________________________________________________
+2023-07-06 09:46:10,320 - INFO - MovePath: Fazendo a leitura dos ficheiros
+2023-07-06 09:46:10,320 - INFO - MovePath: Ficheiro 6-7-2023-9h39m49s.txt movido de /home/script/scripts/script/auto_payments/6-7-2023-9h39m49s.txt com sucesso para /home/script/scripts/script/output/6-7-2023-9h39m49s.txt
+2023-07-06 09:46:10,320 - INFO - MovePath: Ficheiro 6-7-2023-9h46m8s.txt movido de /home/script/scripts/script/auto_payments/6-7-2023-9h46m8s.txt com sucesso para /home/script/scripts/script/output/6-7-2023-9h46m8s.txt
+2023-07-06 09:46:10,320 - INFO - -- -- -- -- -- -- -- --- -- -- -- -- -- -- --- --- -- --

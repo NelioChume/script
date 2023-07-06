@@ -4,7 +4,7 @@ import sqlQuerys as sqlQuerys
 
 
 def operacoes():
-    detalhes = ficheiro.read_detalhe()
+    ficheiro.read_detalhe()
     for detalhe in detalhes:
         referencia = detalhe['referencia']
         datePayment = detalhe['data']

@@ -92,7 +92,7 @@ def read_header(chave):
 def read_detalhe():
     detalhes = []
 
-    with open(nome_arquivo, 'r') as arquivo:
+    with open("Exemplo_Ficheiro_BMEPS.TXT", 'r') as arquivo:
         for linha in arquivo:
             if linha[0] == '1':
                 dataDetalhe = f"{linha[48:52]}-{linha[46:48]}-{linha[44:46]}"
