@@ -15,10 +15,12 @@ DB_DATABASE = os.getenv("DB_DATABASE")
 def connect():
     try:
         conn = mysql.connector.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD, database=DB_DATABASE)
-        logsConf.logs().info('Connect DB: Conexão estabelecida com a Base de Dados')
+        #logsConf.logs().info('Connect DB: Conexão estabelecida com a Base de Dados')
+        print('Connect DB: Conexão estabelecida com a Base de Dados')
         return conn
     except mysql.connector.Error as erro:
-        logsConf.logs().critical(f'Connect DB: Falha na conexão da Base de Dados: {erro}')
+        #logsConf.logs().critical(f'Connect DB: Falha na conexão da Base de Dados: {erro}')
+        print(f'Connect DB: Falha na conexão da Base de Dados: {erro}')
 
 
 
